@@ -26,6 +26,8 @@ Pour cette mission, 3 étapes ont été réalisées :
 > - **client_id** : L'identification unique du client (*object*)  
 > - **session_id** : La session de connexion du client (*object*)  
 
+
 The analyses performed in this project are in French. If you want a translated version, please contact me on linkedin*.
+
 
 **Analyses et tests statistiques :** (Scipy | Matplotlib | Seaborn |)
